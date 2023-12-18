@@ -1,4 +1,4 @@
-package lesson_5;
+package lesson_5.homework5;
 
 public class Car {
     public void start(){
